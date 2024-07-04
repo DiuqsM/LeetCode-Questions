@@ -13,3 +13,5 @@ class Solution {
         return j + 1;
     }
 }
+
+// we are only allowed to modify the array in place, so we can't use a set to store the unique elements
