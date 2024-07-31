@@ -15,3 +15,5 @@ class Solution {
 }
 
 // we are only allowed to modify the array in place, so we can't use a set to store the unique elements
+//we only retun the first n elements of the array, where n is the number of unique elements 
+//which basucally removes the duplicates from the array
