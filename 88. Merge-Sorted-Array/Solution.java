@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Collections;
+
 public class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         ArrayList<Integer> array = new ArrayList<>();
